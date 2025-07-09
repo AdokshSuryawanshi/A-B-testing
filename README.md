@@ -43,7 +43,7 @@ The objective was to determine if the **new page improves user conversion rate**
 
 ## 📊 Key Visualization
 
-![Posterior Distributions of Conversion Rates](./posterior_plot.png)
+![Posterior Distributions of Conversion Rates](https://github.com/AdokshSuryawanshi/A-B-testing/blob/main/Screenshot%202025-07-09%20163738.png)
 
 - **Green**: Treatment group  
 - **Blue**: Control group  
